@@ -4,11 +4,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gengfo.maven</groupId>
-	<artifactId>ARP_Domain</artifactId>
+	<artifactId>Maven_Domain</artifactId>
 	<packaging>jar</packaging>
-	<name>ARP_Domain</name>
+	<name>Maven_Domain</name>
 	<version>1.1-SNAPSHOT</version>
-	<description>The ARP_Domain of ARP</description>
+	<description>The Maven_Domain of Maven</description>
 	
 	<build>
         				
@@ -17,9 +17,9 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>com.gengfo</groupId>
-			<artifactId>ARP_Framework</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<groupId>com.gengfo.maven</groupId>
+			<artifactId>Maven_Framework</artifactId>
+			<version>1.1-SNAPSHOT</version>
 		</dependency>
 		
 	</dependencies>
