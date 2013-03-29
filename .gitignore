@@ -1,5 +1,3 @@
-*.class
-
 # Package Files #
 *.jar
 *.war
@@ -7,3 +5,5 @@
 target
 .settings
 .bak
+
+*.class
