@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.gengfo</groupId>
-	<artifactId>ARP_Biz_Invoice</artifactId>
+	<groupId>com.gengfo.maven</groupId>
+	<artifactId>Maven_Biz_Invoice</artifactId>
 	<packaging>jar</packaging>
-	<name>ARP_Framework</name>
-	<version>1.0-SNAPSHOT</version>
-	<description>The Framework of ARP</description>
+	<name>ARP_Biz_Invoice</name>
+	<version>1.1-SNAPSHOT</version>
+	<description>The ARP_Biz_Invoice of ARP</description>
 
 	<build>
         				

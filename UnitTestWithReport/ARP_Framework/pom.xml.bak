@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.gengfo</groupId>
+	<groupId>com.gengfo.maven</groupId>
 	<artifactId>ARP_Framework</artifactId>
 	<packaging>jar</packaging>
-	<name>ARP_Framework_Test</name>
+	<name>ARP_Framework</name>
 	<version>1.1-SNAPSHOT</version>
 	<description>The Framework of ARP</description>
 

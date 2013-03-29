@@ -3,21 +3,21 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.gengfo</groupId>
+	<groupId>com.gengfo.maven</groupId>
 	<artifactId>UnitTest</artifactId>
 	<packaging>pom</packaging>
-	<name>UnitTest</name>
+	<name>MavenUnitTest</name>
 	<version>1.1-SNAPSHOT</version>
 	<description>The Project of UnitTest</description>
 
 	<modules>
-		<module>ARP_Framework</module>
-		<module>ARP_Domain</module>
-		<module>ARP_Service</module>
-		<module>ARP_War</module>
-		<module>ARP_Biz_Invoice</module>
-		<module>ARP_Build</module>
-		<module>ARP_Test</module>
+		<module>Maven_Framework</module>
+		<module>Maven_Domain</module>
+		<module>Maven_Service</module>
+		<module>Maven_War</module>
+		<module>Maven_Biz_Invoice</module>
+		<module>Maven_Build</module>
+		<module>Maven_Test</module>
 	</modules>
 
 	<properties>

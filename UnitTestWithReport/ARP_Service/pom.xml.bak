@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.gengfo</groupId>
+	<groupId>com.gengfo.maven</groupId>
 	<artifactId>ARP_Service</artifactId>
 	<packaging>jar</packaging>
-	<name>ARP_Domain</name>
-	<version>1.0-SNAPSHOT</version>
-	<description>The ARP_Domain of ARP</description>
+	<name>ARP_Service</name>
+	<version>1.1-SNAPSHOT</version>
+	<description>The ARP_Service of ARP</description>
 
 	<build>
         				
