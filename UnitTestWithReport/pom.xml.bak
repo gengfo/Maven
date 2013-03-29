@@ -11,7 +11,7 @@
 	<description>The Project of UnitTest</description>
 
 	<modules>
-		<module>ARP_Framework</module>
+		<module>ARP_Framework_Test</module>
 		<module>ARP_Domain</module>
 		<module>ARP_Service</module>
 		<module>ARP_War</module>
