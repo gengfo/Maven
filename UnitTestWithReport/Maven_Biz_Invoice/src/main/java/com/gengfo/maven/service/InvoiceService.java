@@ -1,11 +1,22 @@
 package com.gengfo.maven.service;
 
-public class InvoiceService implements ServiceInterface{
-    
+import com.gengfo.maven.domain.DomainUtils;
+import com.gengfo.maven.framework.FrameworkUtils;
+
+public class InvoiceService implements ServiceInterface {
+
+    public InvoiceService() {
+
+    }
+
     public void helloService() {
-        
+
+        FrameworkUtils.helloFramework();
+
+        DomainUtils.helloDomain();
+
         System.out.println("Hello Invoice Service!");
-        
+
     }
 
 }

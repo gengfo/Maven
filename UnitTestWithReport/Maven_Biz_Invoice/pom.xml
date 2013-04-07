@@ -24,15 +24,17 @@
 
 		<dependency>
 			<groupId>com.gengfo.maven</groupId>
-			<artifactId>Maven_Domain</artifactId>
+			<artifactId>Maven_Service</artifactId>
 			<version>1.1-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.gengfo.maven</groupId>
-			<artifactId>Maven_Service</artifactId>
+			<artifactId>Maven_Domain</artifactId>
 			<version>1.1-SNAPSHOT</version>
 		</dependency>
+
+
 
 	</dependencies>
 
