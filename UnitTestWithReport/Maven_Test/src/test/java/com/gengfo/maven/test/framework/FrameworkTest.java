@@ -1,4 +1,4 @@
-package com.gengfo.maven.test;
+package com.gengfo.maven.test.framework;
 
 import junit.framework.TestCase;
 

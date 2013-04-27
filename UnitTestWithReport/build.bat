@@ -1,0 +1,1 @@
+D:\GengFo\MyProgs\GitHub\apache-maven-3.0.5-bin\apache-maven-3.0.5\bin\mvn clean install site
