@@ -4,7 +4,7 @@
 
     <groupId>my</groupId>
     <artifactId>version_check</artifactId>
-    <version>1.0.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>apple</name>
