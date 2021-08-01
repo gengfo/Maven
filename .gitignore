@@ -1,0 +1,6 @@
+.vagrant/*
+.DS_Store
+*.tar.gz
+kubernetes
+*.box
+.idea/*
